@@ -18,5 +18,5 @@ const readAll = (req, res) => {
 };
 
 export default {
-  readAl,
+  readAll,
 };
